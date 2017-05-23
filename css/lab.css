@@ -28,6 +28,7 @@ body{
   background: #b0aeae;
   margin-left: 61%;
   height: 20em;
+  opacity: 50;
 }
 
 .colorf{
@@ -41,8 +42,9 @@ body{
 }
 .borde{
 
-  border: 5;
+  border: 5px;
   border-color: pink;
+  border-radius: solid;
 
 }
 
@@ -75,6 +77,45 @@ body{
 .cosito{
   width: 50%;
   background:#fe9600;
+  opacity: 90%;
+}
+
+.botonu{
+  background: #ffffff;
+  color: #3a3838;
+}
+.sectionm {
+  width: 102%;
+  height: 43em;
+  margin-top: -6%;
+
+}
+.bultsec{
+  background: #2b2929;
+}
+
+
+hr{
+  width: 90%;
+}
+
+.margeimf{
+margin: 3%;
+}
+
+.margenr{
+  margin-top: 20%;
+  margin-left: 10%;
+}
+
+li {
+
+  padding: 6%;
+  list-style: none;
+}
+
+.margenlogos{
+  margin-top: 12%;
 
 
 }
