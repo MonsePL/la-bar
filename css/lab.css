@@ -1,0 +1,80 @@
+.navegador{
+  height: 6em;
+  background: #ffffffff;
+}
+.margenli{
+  margin-top: 2%;
+}
+
+body{
+  background: pink;
+}
+
+#encabezado{
+  background-image: url("../img/taxi.jpg");
+  background-repeat: no-repeat;
+  width: 102%;
+  height: 60em;
+}
+
+#conductor{
+  background-image: url("../img/conduce.jpg");
+  background-repeat: no-repeat;
+  width: 102%;
+  height: 35em;
+}
+.cuadrado2{
+  width: 40%;
+  background: #b0aeae;
+  margin-left: 61%;
+  height: 20em;
+}
+
+.colorf{
+  color: #ffffff;
+}
+
+.cuadrado{
+  width: 40%;
+  background: #fe9600;
+  margin-left: 60%;
+}
+.borde{
+
+  border: 5;
+  border-color: pink;
+
+}
+
+
+ .botones{
+   background: #ffffff;
+   color:#111110;
+ }
+
+ .backnar{
+   background:#fe9600;
+ }
+
+ .juntar{
+   margin-top: -5%;
+ }
+
+ .margeni{
+   margin: 5%;
+ }
+.boton{
+  background: #fe9600;
+  color: #ffffff;
+}
+
+.margendiv{
+  margin: 3%;
+}
+
+.cosito{
+  width: 50%;
+  background:#fe9600;
+
+
+}
